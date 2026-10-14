@@ -19,8 +19,8 @@
 		"@slack/bolt": "5.1.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.5.12",
-		"@types/node": "26.6.1",
+		"@biomejs/biome": "2.5.14",
+		"@types/node": "26.6.2",
 		"bun-types": "1.4.0",
 		"typescript": "7.0.2"
 	}
