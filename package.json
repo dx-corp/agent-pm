@@ -15,7 +15,7 @@
 	},
 	"dependencies": {
 		"@earendil-works/pi-agent-core": "0.87.1",
-		"@earendil-works/pi-ai": "0.87.1",
+		"@earendil-works/pi-ai": "1.2.0",
 		"@slack/bolt": "5.1.0"
 	},
 	"devDependencies": {
